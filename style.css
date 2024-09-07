@@ -1,0 +1,12 @@
+#greycol{
+    color: gray;
+}
+.yellow{
+    color: yellow;
+}
+p + h3 + div{
+    color: green;
+}
+p + div{
+    color: red;
+}
